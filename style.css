@@ -1,0 +1,113 @@
+body{
+	background-color: #cadefc;
+	color : #c3bef0;
+	font-family: 'Architects Daughter', cursive;
+	font-size:20px;
+	text-align: center;
+
+}
+
+h1 {
+	color : #cca8e9;
+	font-family: 'Lobster', cursive;
+    font-weight: 100;
+    letter-spacing: 2px;
+    font-size: 30px;
+ 
+}
+
+p {
+	font-size: 20px;
+	 line-height: 20px;
+
+}
+
+h2 {
+	color: #cca8e9;
+}
+
+
+a {
+	text-decoration: none;
+	color: #cca8e9;
+	
+	font-size:20px;
+	text-align: center;
+}
+a:hover {
+	color: #defcf9;
+	
+}
+
+p {
+	font-family:'Kiwi Maru', serif;
+
+	text-align: center;
+
+ }
+
+ #logo {
+ 	width: 500px;
+ 	padding: 0px 15px 0px;
+ }
+
+
+ ul{
+ 	padding: 10px 280px 20px;
+ }
+
+
+
+ /* Custom design whit class*/
+
+ .container {
+width : 700px;
+margin: 40px auto;
+  }
+
+
+ .btn-blue {
+  	background-color:  #FEFB97;
+  	color: white;
+  	padding: 15px 20px;
+  	border-radius: 4px;
+  }
+
+  .card-white {
+  	background-color: white;
+  	padding: 60px;
+  	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  	border-radius: 4px;
+  	margin: 60px 0px;
+  	text-align:center;
+  }
+
+
+
+ .list-inline {
+  	list-style: none;
+  	padding-left:10px;
+  	padding-right: 10px
+
+  }
+
+  .list-inline > li{
+  	display:inline;
+  	padding: 20px 20px;
+  }
+
+.list-inline i{
+	font-size: 60px;
+
+}
+
+.list-inline i:hover{
+	color: yellow;
+}
+
+#introduction p{
+margin-bottom : 60px;
+}
+
+
+
